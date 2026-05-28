@@ -7,5 +7,5 @@ Contains several shaders with
  - simple overlays for experimenting, contrast, etc
  - auto black-white levels (aka adaptive levels)
  - grain
- - advanced unshar pmask shader (improved unsharp.fx with added options)
+ - advanced unsharp mask shader (improved unsharp.fx with added options)
  - something else, to be updated
