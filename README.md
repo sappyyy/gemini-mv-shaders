@@ -1,5 +1,7 @@
 Experiments with Gemini
 
+I'm mainly using these shaders for movies watching in PotPlayer or MPC-BE
+
 Contains several shaders with 
  - halation effect (previously missing in ReShade)
  - black bars filling in style of SVP
